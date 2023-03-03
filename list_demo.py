@@ -17,3 +17,4 @@ paths.pop(1)
 print(paths)
 paths[1] = "haha"
 print(paths)
+print("haha")
